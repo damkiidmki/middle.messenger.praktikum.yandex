@@ -9,6 +9,10 @@
     "preview": "vite preview",
     "start": " npm run build && node ./server.js "
   },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
   "devDependencies": {
     "vite": "^5.2.0"
   },
